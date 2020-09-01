@@ -266,7 +266,7 @@ h3.heading
 
 footer
 {
-	background-color: #292929;
+	background-color: black;
 	color: white;
 	padding: 2rem 0 3rem;
 }
@@ -297,7 +297,7 @@ footer hr.socket
 
 #fixed2
 {
-	background-image: url(front/f3.jpg);
+	background-image: url(img/bg1.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	min-height: 660px;
@@ -473,7 +473,7 @@ footer hr.socket
 
 	#fixed2
 	{
-		background-image: url(front/b1.jpg);
+		background-image: url(img/bg1.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		min-height: 660px;
